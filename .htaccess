@@ -1,0 +1,7 @@
+DirectoryIndex index.php?page=main
+
+<Files jCMS_edit.php>
+order deny,allow
+deny from all
+allow from 178.211.172.244
+</Files>
