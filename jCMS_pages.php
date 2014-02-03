@@ -12,3 +12,6 @@ $A['ping-pong-onlain']='Ping Pong онлайн';
 $A['besplatnaia-ocenka-saita-onlain']='Бесплатная оценка сайтов онлайн';
 $A['main']='Wanty - главная страница';
 $A["vasya"]="Вася";
+$A["Polnyi-spisok-Kriptovaliut"]="Полный список Криптовалют";
+$A["Polnyi-spisok-stran"]="Полный список стран";
+$A["jsfiddle-svoimi-rukami"]="jsfiddle своими руками";
